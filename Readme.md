@@ -38,6 +38,16 @@ pip install <libname>
 
 You should be ready to go
 
+## Running the project
+
+```bash
+git clone https://github.com/CALLmeDOMIN/Meterology-Data-Interpolation/
+
+cd Meterology-Data-Interpolation
+```
+
+Then you should open in editor of your choice (VSC, PyCharm)
+
 ## Final result
 
 Result of interpolation of 1500 meteo stations over all USA.
