@@ -46,3 +46,7 @@ You should be ready to go
 ## License
 
 This project is licensed under [MIT](./LICENSE) license.
+
+## Final result
+
+![](https://github.com/Szymon-Nowaq/Meterology-Data-Interpolation/blob/main/usa_interpolation.gif)
