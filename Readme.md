@@ -49,4 +49,6 @@ This project is licensed under [MIT](./LICENSE) license.
 
 ## Final result
 
+Result of interpolation of 1500 meteo stations over all USA.
+
 ![](https://github.com/Szymon-Nowaq/Meterology-Data-Interpolation/blob/main/usa_interpolation.gif)
